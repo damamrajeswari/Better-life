@@ -1,0 +1,191 @@
+import React from 'react'
+
+import styles from './android-large67.module.css'
+
+const AndroidLarge67 = (props) => {
+  return (
+    <nav>
+      <div className={styles['android-large67']}>
+        <img
+          src="/playground_assets/vector2231-3jya.svg"
+          alt="Vector2231"
+          className={styles['vector']}
+        />
+        <img
+          src="/playground_assets/rectangle472231-npr7-200h.png"
+          alt="Rectangle472231"
+          className={styles['rectangle47']}
+        />
+        <img
+          src="/playground_assets/vector2231-05fj.svg"
+          alt="Vector2231"
+          className={styles['vector01']}
+        />
+        <img
+          src="/playground_assets/line252231-rpos.svg"
+          alt="Line252231"
+          className={styles['line25']}
+        />
+        <img
+          src="/playground_assets/vector2231-18v7.svg"
+          alt="Vector2231"
+          className={styles['vector02']}
+        />
+        <span className={styles['text']}>
+          <span>Medication</span>
+        </span>
+        <span className={styles['text02']}>
+          <span>Cough</span>
+        </span>
+        <img
+          src="/playground_assets/onlinelogomaker1030220905175622231-mp3h-300w.png"
+          alt="onlinelogomaker1030220905175622231"
+          className={styles['onlinelogomaker103022090517562']}
+        />
+        <img
+          src="/playground_assets/vector2231-1w97.svg"
+          alt="Vector2231"
+          className={styles['vector03']}
+        />
+        <span className={styles['text04']}>
+          <span>Adult</span>
+        </span>
+        <img
+          src="/playground_assets/vector2231-xvav.svg"
+          alt="Vector2231"
+          className={styles['vector04']}
+        />
+        <span className={styles['text06']}>
+          <span>Child</span>
+        </span>
+        <img
+          src="/playground_assets/line282231-fxf.svg"
+          alt="Line282231"
+          className={styles['line28']}
+        />
+        <img
+          src="/playground_assets/line292231-5hlo.svg"
+          alt="Line292231"
+          className={styles['line29']}
+        />
+        <img
+          src="/playground_assets/line302231-aexf.svg"
+          alt="Line302231"
+          className={styles['line30']}
+        />
+        <img
+          src="/playground_assets/line312231-tsad.svg"
+          alt="Line312231"
+          className={styles['line31']}
+        />
+        <img
+          src="/playground_assets/line322231-81vb.svg"
+          alt="Line322231"
+          className={styles['line32']}
+        />
+        <img
+          src="/playground_assets/line332231-xbve.svg"
+          alt="Line332231"
+          className={styles['line33']}
+        />
+        <span className={styles['text08']}>
+          <span>Himalaya Koflet Syrup</span>
+        </span>
+        <span className={styles['text10']}>
+          <span>Zandu Ayurvedic Cough Syrup</span>
+        </span>
+        <span className={styles['text12']}>
+          <span>Herbodil Syrup</span>
+        </span>
+        <span className={styles['text14']}>
+          <span>
+            Vaddmaan Zecof
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+        </span>
+        <span className={styles['text16']}>
+          <span>
+            Cofsils Naturals Cough Syrup
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+        </span>
+        <span className={styles['text18']}>
+          <span>
+            TIPS
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+        </span>
+        <img
+          src="/playground_assets/vector2231-viq.svg"
+          alt="Vector2231"
+          className={styles['vector05']}
+        />
+        <img
+          src="/playground_assets/vector2231-00c.svg"
+          alt="Vector2231"
+          className={styles['vector06']}
+        />
+        <img
+          src="/playground_assets/vector2231-t06j.svg"
+          alt="Vector2231"
+          className={styles['vector07']}
+        />
+        <img
+          src="/playground_assets/vector2231-171.svg"
+          alt="Vector2231"
+          className={styles['vector08']}
+        />
+        <img
+          src="/playground_assets/vector2231-nn7p.svg"
+          alt="Vector2231"
+          className={styles['vector09']}
+        />
+        <img
+          src="/playground_assets/vector2231-zv5i.svg"
+          alt="Vector2231"
+          className={styles['vector10']}
+        />
+        <span className={styles['text20']}>
+          <span>Sucking on a cough drop may wet your throat enough.</span>
+        </span>
+        <span className={styles['text22']}>
+          <span>
+            It is recommended to consume turmeric with black pepper.
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+        </span>
+        <span className={styles['text24']}>
+          <span>Steam twice a day for faster results.</span>
+        </span>
+        <span className={styles['text26']}>
+          <span>
+            <span>
+              Gargling with salt water may help prevent the severity of cold
+              symptoms
+            </span>
+            <br></br>
+            <span></span>
+          </span>
+        </span>
+      </div>
+    </nav>
+  )
+}
+
+export default AndroidLarge67
